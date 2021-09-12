@@ -6,7 +6,7 @@ You can checkout to https://docs.google.com/document/d/1vtp5CFduklq4oXyVwDt6XtCN
 
 This EFI is just for the sake to run macOS, not for the daily use.. If you want to use it as a stable  os and for daily use, update it as per new oc packages and also m>
 
-You could also use this EFI folder for various distros like Niresh, etc.. But I prefer Olarila *The Real Vanilla Hackintosh* (https://www.olarila.com)
+You could also use this EFI folder for various distros like Niresh, Olarila, etc...
 
 The OC packages used in this EFI are as per opencore 0.7.0 realese.. You can edit it as per your need/to update the packages and kests in the future
 
@@ -23,11 +23,9 @@ Sad News - MacOS dosen't have support for AMD Laptops, so it will work if you ha
 
 If you are a AMD laptop user/incompatible desktop hardware user and have a dream to run MacOS, you can invest on a Intel laptop, just a simple google search will tell y>
 
-Don't forget to search your EFI on google (github will do the work) but if you didn't got it, goto Olarila EFI for all chipsets website (https://www.olarila.com/topic/5>
+Don't forget to search your EFI on google (github will do the work), or make your own ¯\_(ツ)_/¯
 
-NoteBook EFI is for Laptop users and Desktop EFI is for desktop users obviously lol
-
-Wish you best of luck for you Hackintosh, remember it's quite difficult but not impossible.. It will take time and patience to get it working.. You will encounter some >
+Wish you best of luck for you Hackintosh, remember it's quite difficult but not impossible.. It will take time and patience to get it working..
 
 Lastly, here is AMD OS X Discord, so you can get support if your erorr's not getting solved --> https://discord.com/invite/EfCYAJW
 
