@@ -2,26 +2,26 @@
 
 Made with OpenCore
 
-You can checkout to https://docs.google.com/document/d/1vtp5CFduklq4oXyVwDt6XtCNVeLMbOKX3M4SOj6UIiE/edit for everything you need to know about Hackintosh (Optional) -->>
+You can checkout to https://docs.google.com/document/d/1vtp5CFduklq4oXyVwDt6XtCNVeLMbOKX3M4SOj6UIiE/edit for everything you need to know about Hackintosh (Optional
 
-This EFI is just for the sake to run macOS, not for the daily use.. If you want to use it as a stable  os and for daily use, update it as per new oc packages and also m>
+This EFI is just for the sake to run macOS, not for the daily use.. If you want to use it as a stable  os and for daily use, update it as per new oc packages.
 
 You could also use this EFI folder for various distros like Niresh, Olarila, etc...
 
 The OC packages used in this EFI are as per opencore 0.7.0 realese.. You can edit it as per your need/to update the packages and kests in the future
 
 
-VIMP NOTE - does not support these motherboards - B550, A520, TRx40, X570 , X470.. If you want to use this EFI for yourself/your hardware, or if you encounter some issu>
+VIMP NOTE - does not support these motherboards - B550, A520, TRx40, X570 , X470.. If you want to use this EFI for yourself/your hardware.
 
 Here is the link for kernel patches --> https://github.com/AMD-OSX/AMD_Vanilla
 
-Crerate your own SMBIOS (https://github.com/corpnewt/GenSMBIOS --> Make sure you have Python installed).. Here is a tutorial https://www.youtube.com/watch?v=8MsueH5EouQ>
+Create your own SMBIOS (https://github.com/corpnewt/GenSMBIOS --> Make sure you have Python installed).. Here is a tutorial https://www.youtube.com/watch?v=8MsueH5EouQ
 
 I think an compatible Intel cpu with compatible AMD gpu would be awesome
 
 Sad News - MacOS dosen't have support for AMD Laptops, so it will work if you have desktop with compatible hardware
 
-If you are a AMD laptop user/incompatible desktop hardware user and have a dream to run MacOS, you can invest on a Intel laptop, just a simple google search will tell y>
+If you are a AMD laptop user/incompatible desktop hardware user and have a dream to run MacOS, you can invest on a Intel laptop, just a simple google search will tell ya
 
 Don't forget to search your EFI on google (github will do the work), or make your own ¯\_(ツ)_/¯
 
